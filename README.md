@@ -36,7 +36,7 @@ The project is also, in large part, an application of OOP (Object-oriented progr
 *    Truck: keeps all info related to a truck: ID, speed, type, etc..
 *    Cargo: keeps all cargo info: its waiting time, id, type, expected delivery time
 *    Time: An auxiliary class to keep track time. It wasn't necessary for the project, but we figured that creating it
-    would keep the code simpler in many cases.
+    would make the code more modular.
 
 ## Notes:
 
