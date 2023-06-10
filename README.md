@@ -39,13 +39,20 @@ The project is also, in large part, an application of OOP (Object-oriented progr
     would make the code more modular.
 
 ## Illustration:
-This is a brief illustration of a random testcase.                                                                                             
+This is a brief illustration of a random testcase.
+
 ![image](https://github.com/alhusseingamal/Truck-Delivery-Company-Simulation/assets/109280831/64feb7c2-ffa5-4ef5-a6e9-f38b82b6a67b)
+
 1.	The user is prompted to enter the file name, and choose a mode.
+
 ![image](https://github.com/alhusseingamal/Truck-Delivery-Company-Simulation/assets/109280831/3675b5be-c51f-46b3-9049-4b6879b4405b)
+
 2.	Cargos are assigned to trucks, loaded, moving, then delivered. Trucks are either empty, loading cargos, moving, or in maintenance.
+
 ![image](https://github.com/alhusseingamal/Truck-Delivery-Company-Simulation/assets/109280831/3788ef91-8e91-407a-a6b7-beffba671be5)
+
 3.	Sample output file produced.
+
 ***For a full illustration of the program, look into the sample_run file.***
 
 ## Notes:
