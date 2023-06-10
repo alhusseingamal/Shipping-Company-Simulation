@@ -1,0 +1,23 @@
+﻿  CancelEvent.cpp
+  Cargo.cpp
+D:\University\ds\DS_Project\DS_Project\Cargo.cpp(30,75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\ds\DS_Project\DS_Project\Cargo.cpp(40,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University\ds\DS_Project\DS_Project\Cargo.cpp(68,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Company.cpp
+D:\University\ds\DS_Project\DS_Project\Company.cpp(56,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\ds\DS_Project\DS_Project\Company.cpp(57,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\ds\DS_Project\DS_Project\Company.cpp(66,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\ds\DS_Project\DS_Project\Company.cpp(67,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\ds\DS_Project\DS_Project\Company.cpp(76,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\ds\DS_Project\DS_Project\Company.cpp(77,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Event.cpp
+  main.cpp
+  PreparationEvent.cpp
+  PromotionEvent.cpp
+  Time.cpp
+  Truck.cpp
+D:\University\ds\DS_Project\DS_Project\Truck.cpp(40,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\University\ds\DS_Project\DS_Project\Truck.cpp(56,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  UI.cpp
+  Generating Code...
+  shippingcompany.vcxproj -> D:\University\shippingcompany\x64\Debug\shippingcompany.exe
