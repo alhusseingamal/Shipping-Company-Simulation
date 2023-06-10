@@ -50,6 +50,8 @@ explanations of many parts, to avoid stuffing the code with long unnecessary par
 
 For more info, refer to the project description document.
 
+***For an illustration of the program, look into the sample_run file.***
+
 ## Contributors:
 This project was created by:
 *    Alhussein Gamal Hussein 
