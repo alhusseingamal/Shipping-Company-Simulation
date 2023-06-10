@@ -7,7 +7,7 @@ by trucks starting from the cargos arriving at the company until they are delive
 
 This project was developed as part of a Data Structures and Algorithms course, associated with *Faculty of Engineering, Cairo University*.
 
-Tha aim of the project is put to knowledge gained through the course in data structures to test.
+Tha aim of the project is put to knowledge gained through the course in data structures to test, in addition to devising the most efficeint algorithms to use them in satisfying the requirements.
 The data structures of use here are: linked lists, stacks, queues, and trees.
 
 The project is also, in large part, an application of OOP (Object-oriented programming).
