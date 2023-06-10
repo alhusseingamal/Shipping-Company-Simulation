@@ -2,15 +2,15 @@
 
 ## Intro:
 
-This is a Truck-Delivery-Company software program in C++ for simulating how the process of delivering cargos 
-by trucks starting from the cargos arriving at the company until they are delivered safe to their destination
+This is a Truck-Delivery-Company software program in C++. It simulates the process of delivering cargos 
+by trucks starting from the cargos arriving at the company until they are delivered safe to their destination.
 
 This project was developed as part of a Data Structures course, associated with Faculty of Engineering, Cairo University
 
 Tha aim of the project is put to knowledge gained through the course in data structures to test.
 The data structures of use here are: linked lists, stacks, queues, and trees
 
-The project is also, in large part, an application of OOP concepts and modular programming
+The project is also, in large part, an application of OOP (Object-oriented programming)
 
 ## Classes and Description:
 ### Data Structures:
@@ -50,7 +50,7 @@ explanations of many parts, to avoid stuffing the code with long unnecessary par
 
 For more info, refer to the project description document
 
-## Credits
+## Contributors:
 This project is created by:
-    Alhussein Gamal Hussein 
-    Mohamed Ahmed Ibrahim
+*    Alhussein Gamal Hussein 
+*    Mohamed Ahmed Ibrahim
