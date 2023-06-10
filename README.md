@@ -1,5 +1,6 @@
 # Shipping-Company-Simulation
-Intro:
+
+## Intro:
 
 This is a Truck-Delivery-Company software program in C++ for simulating how the process of delivering cargos 
 by trucks starting from the cargos arriving at the company until they are delivered safe to their destination
@@ -11,18 +12,14 @@ The data structures of use here are: linked lists, stacks, queues, and trees
 
 The project is also, in large part, an application of OOP concepts and modular programming
 
-This project is created by:
-    Alhussein Gamal Hussein 
-    Mohamed Ahmed Ibrahim
-
-Classes and Description:
-Data Structures:
+## Classes and Description:
+### Data Structures:
     Node : A basic node containing an item of data and a pointer to another node
     LinkedList : Singly linked list with the common operations. it is a series of Nodes linked together
     Queue: The famous queue data structure, implemented using a linked list
     PriorityQueue: Priority queue data structure in linkedlist implementation
-Application classes:
-    Company : The master class inside which all company operations are handled, like:
+### Application classes:
+*    Company : The master class inside which all company operations are handled, like:
         - Receiving events and arranging them to be handled
         - handling events
         - selecting trucks to deliver based on their availability, speed, range, number of deliveries made in the day, maintenance time, etc..
@@ -34,21 +31,26 @@ Application classes:
         - keeping track of the status of trucks: empty, loading, moving, unloading, finished, in maintenance, in checkup
         - keeping tracks of all the data and statistics necessary to calculate the required info about utilzation
         - and more....
-    UI // user interface; responsible for any interfacing with the user
-    Event // from which 3 subclasses inherit: PreparationEvent, CancelEvent, PromotionEvent
-    Truck : keeps all info related to a truck: ID, speed, type, etc..
-    Cargo : keeps all cargo info: its waiting time, id, type, expected delivery time
-    Time : An auxiliary class to keep track time. It wasn't necessary for the project, but we figured that creating it
+*    UI // user interface; responsible for any interfacing with the user
+*    Event // from which 3 subclasses inherit: PreparationEvent, CancelEvent, PromotionEvent
+*    Truck : keeps all info related to a truck: ID, speed, type, etc..
+*    Cargo : keeps all cargo info: its waiting time, id, type, expected delivery time
+*    Time : An auxiliary class to keep track time. It wasn't necessary for the project, but we figured that creating it
     would keep the code simpler in many cases
 
-Notes:
+## Notes:
 
-1 - Throughout the project, dequeue and queue operations are used to deal with different types of objects
+1. Throughout the project, dequeue and queue operations are used to deal with different types of objects
 i.e. trucks, cargos, etc... This is for sure not the optimal way to achieve the desired result, 
 but it was a project requirement to use queues as they are in their basic structure and not to loop over them
 
-2 - Most of the time the code is simple enough and self-explanatory(owing in part to variable naming), so I omitted
+2. Most of the time the code is simple enough and self-explanatory(owing in part to variable naming), so I omitted
 explanations of many parts, to avoid stuffing the code with long unnecessary paragraphs
 
 
 For more info, refer to the project description document
+
+## Credits
+This project is created by:
+    Alhussein Gamal Hussein 
+    Mohamed Ahmed Ibrahim
