@@ -38,6 +38,16 @@ The project is also, in large part, an application of OOP (Object-oriented progr
 *    Time: An auxiliary class to keep track time. It wasn't necessary for the project, but we figured that creating it
     would make the code more modular.
 
+## Illustration:
+This is a brief illustration of a random testcase.
+![image](https://github.com/alhusseingamal/Truck-Delivery-Company-Simulation/assets/109280831/64feb7c2-ffa5-4ef5-a6e9-f38b82b6a67b)
+1.	The user is prompted to enter the file name, and choose a mode.
+![image](https://github.com/alhusseingamal/Truck-Delivery-Company-Simulation/assets/109280831/3675b5be-c51f-46b3-9049-4b6879b4405b)
+2.	Cargos are assigned to trucks, loaded, moving, then delivered. Trucks are either empty, loading cargos, moving, or in maintenance.
+![image](https://github.com/alhusseingamal/Truck-Delivery-Company-Simulation/assets/109280831/3788ef91-8e91-407a-a6b7-beffba671be5)
+3.	Sample output file produced.
+***For a full illustration of the program, look into the sample_run file.***
+
 ## Notes:
 
 1. Throughout the project, dequeue and queue operations are used to deal with different types of objects
@@ -49,8 +59,6 @@ explanations of many parts, to avoid stuffing the code with long unnecessary par
 
 
 For more info, refer to the project description document.
-
-***For an illustration of the program, look into the sample_run file.***
 
 ## Contributors:
 This project was created by:
