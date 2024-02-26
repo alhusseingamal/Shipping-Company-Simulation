@@ -1,4 +1,6 @@
    # Truck-Delivery-Company-Simulation
+## Overview:
+The code simulates the delivery fleet of a shipping company using OOP to model the relations down the hierarchy of the main entities and data structures such as lists, queues, priority queues and stacks to model the organization of the entities themselves within the system. The main entities in the system are: Cargo, Truck and Company. Cargo and Truck each have 3 subtypes (VIP, special, normal). The possible need for maintenance and break down of trucks in addition to the possible damage to cargos are modelled. The interactions between the entities are triggered by a number of events, mainly Preparation Event, Promotion Event, Cancellation Event, all of which are children of the parent class Event.
 
 ## Intro:
 
